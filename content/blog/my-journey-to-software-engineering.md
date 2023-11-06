@@ -49,17 +49,9 @@ that it got me my first job.
 
 ## Support Engineer Kipsu
 
-Before I finished my bootcamp, I ended up getting hired at a start-up company
-in the Twin Cities called Kipsu.  The position I was hired for was Support
-Engineer, which had me doing customer support while continuing to build my
-technical skills. 
-
-## Software Engineer
-
-At the beginning of 2023 I was promoted from Support Engineer to Software 
-Engineer and I started in the Accelerated Engineer Program.  The program
-was a training program that was focued on helping people like myself that
-had come out of a bootcamp get ready for a developer role.
+Before I finished my bootcamp, I ended up getting hired at a mature start-up 
+company called Kipsu and I've been working there since.  It's been a great
+company and I'm so thankful that I have had the opportunity.
 
 
 
