@@ -47,7 +47,7 @@ the industry. I've been asked if it was worth it, and I certainly have mixed
 feelings on it that will be another post someday. What's important though, is
 that it got me my first job.
 
-## Support Engineer Kipsu
+## Software Engineer at Kipsu
 
 Before I finished my bootcamp, I ended up getting hired at a mature start-up 
 company called Kipsu and I've been working there since.  It's been a great
