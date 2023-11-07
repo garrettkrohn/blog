@@ -49,9 +49,13 @@ const sortedPosts = posts
                 ) : (
                   <a
                     href={`/blog/${post.slug}`}
-                    class="unset hover:text-text-link text-lg"
+                    class="unset hover:text-text-link text-lg py-2"
                   >
                     {post.frontmatter.title}
+                      <br>
+                    <span class="text-sm">
+                      {post.frontmatter.description}
+                    </span>
                   </a>
                 )}
               </div>
