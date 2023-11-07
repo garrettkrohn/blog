@@ -3,7 +3,7 @@ external: false
 draft: false
 title: My Journey to Software Engineering
 description: I have had a unique path to this career.
-date: 2023-11-04
+date: 2023-11-01
 ---
 
 ## What do you want to be when you grow up? 
